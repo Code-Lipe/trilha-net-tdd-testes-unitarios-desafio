@@ -1,0 +1,14 @@
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\bin\Debug\net7.0\NewTalents.exe
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\bin\Debug\net7.0\NewTalents.deps.json
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\bin\Debug\net7.0\NewTalents.runtimeconfig.json
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\bin\Debug\net7.0\NewTalents.dll
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\bin\Debug\net7.0\NewTalents.pdb
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\obj\Debug\net7.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfoInputs.cache
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfo.cs
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\obj\Debug\net7.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\obj\Debug\net7.0\NewTalents.dll
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\obj\Debug\net7.0\refint\NewTalents.dll
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\obj\Debug\net7.0\NewTalents.pdb
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\obj\Debug\net7.0\NewTalents.genruntimeconfig.cache
+C:\Users\Felip\Documents\github-projetos\trilha-net-tdd-testes-unitarios-desafio\NewTalents\obj\Debug\net7.0\ref\NewTalents.dll
